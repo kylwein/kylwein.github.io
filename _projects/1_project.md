@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Jason's Journey
 description: with background image
 img: assets/img/12.jpg
 importance: 1
+redirect: https://github.com/kylwein/RogueLike
 category: work
 related_publications: true
 ---
