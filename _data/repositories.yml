@@ -1,10 +1,14 @@
 github_users:
-  - kylwein
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - kylwein/Workshop_Archive
-  - kylwein/RogueLike
-  - kylwein/Protein-Sequence-Converter-NPY-to-FASTA
-  - lemaslab/CAMP-data-processing
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
