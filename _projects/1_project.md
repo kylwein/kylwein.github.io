@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Jason's Journey"
+title: 'Jason\'s Journey',
 description: with background image
 img: assets/img/12.jpg
 importance: 1
