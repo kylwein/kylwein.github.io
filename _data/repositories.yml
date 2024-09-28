@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kylwein
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - lemaslab/CAMP-data-processing
+  - kylwein/Workshop_Archive
+  - kylwein/RogueLike
+  - kylwein/Protein-Sequence-Converter-NPY-to-FASTA
