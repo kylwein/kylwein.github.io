@@ -4,7 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - lemaslab/CAMP-data-processing
   - kylwein/Workshop_Archive
   - kylwein/RogueLike
   - kylwein/Protein-Sequence-Converter-NPY-to-FASTA
