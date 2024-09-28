@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: https://www.linkedin.com/in/weinerkyle/
+permalink: /
 subtitle: 
 
 profile:
