@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+permalink: https://www.linkedin.com/in/weinerkyle/
+subtitle: 
 
 profile:
   align: right
@@ -21,6 +21,5 @@ social: false # includes social icons at the bottom of the page
 Hey there! I’m Kyle Weiner, a third-year Data Science student at the University of Florida with a passion for AI, machine learning, and bioinformatics. Right now, I’m diving into research, using AI models to solve problems involving protein-peptide interactions. I also have fun building mechanical keyboards and love swimming whenever I can.
 
 I’m proficient in C++, Python, R, SQL, and Tableau, with a focus on AI frameworks like PyTorch, Keras, and TensorFlow. I’m always looking to expand my knowledge and push the boundaries of what AI can do!
-
 
 
