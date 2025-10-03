@@ -73,7 +73,7 @@
       "highlights": [
         "Built ensemble model (XGBoost, RF, Extra Trees, LightGBM, Prophet, ARIMA) to optimize outbound shipments with 85%+ accuracy, beating production model by 3%.",
         "Projected $1M ARR savings by streamlining 15,000 weekly load forecasts, cutting empty miles and variance.",
-        "Cleaned and joined item/routing data in SQL; evaluated demand signals via confidence intervals and variance analysis.",
+        "Cleaned and joined item/routing data in SQL; evaluated demand signals with confidence intervals and variance analysis.",
         "Collaborated in Agile/Jira setup, participating in sprint planning, stand-ups, and one-on-ones with manager."
       ]
     },
