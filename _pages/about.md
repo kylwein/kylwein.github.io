@@ -11,10 +11,11 @@ profile:
   more_info: >
     <p>University of Florida</p>
     <p>Gainesville, FL</p>
+    <p><a href="mailto:weinerkyle7@gmail.com">weinerkyle7@gmail.com</a></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 
