@@ -1,1 +1,146 @@
-{"basics":{"name":"Kyle Weiner","label":"Data Science Student","email":"kyleweiner@ufl.edu","phone":"+1 (954)-647-2672","url":"https://github.com/kylwein","summary":"Junior Data Science major at the University of Florida with experience in data science, machine learning, and bioinformatics research. Skilled in applying AI models to real-world problems in healthcare, transportation, and sports analytics.","location":{"city":"Gainesville","region":"Florida","countryCode":"US"},"profiles":[{"network":"GitHub","username":"kylwein","url":"https://github.com/kylwein"},{"network":"LinkedIn","username":"weinerkyle","url":"https://www.linkedin.com/in/weinerkyle/"}]},"education":[{"institution":"University of Florida","location":"Gainesville, FL","studyType":"B.S.","area":"Data Science","startDate":"2022-08-01","endDate":"2026-05-01","score":"3.5","courses":["Regression Analysis","Intro to Probability","Linear Algebra for Data Science","Data Structures and Algorithms","Discrete Structures","Programming with Data in R","Computational Math"],"certificate":"AI Fundamentals"}],"skills":[{"name":"Programming","keywords":["Python","SQL","R","C/C++"]},{"name":"Machine Learning","keywords":["Scikit-Learn","XGBoost","Pandas","NumPy","Matplotlib","PyTorch","TensorFlow","Keras"]},{"name":"Data Tools","keywords":["Tableau","Power BI","MATLAB","RStudio","Jupyter","Google Cloud (GCP)"]},{"name":"Development","keywords":["Git","Unix/Linux","Jira","Docker","Agile","Unit Testing"]}],"work":[{"name":"Walmart","position":"Data Science Intern","startDate":"2025-05-01","endDate":"2025-08-01","summary":"Developed multi-model regression ensemble for transportation optimization.","highlights":["Built ensemble model (XGBoost, RF, Extra Trees, LightGBM, Prophet, ARIMA) to optimize outbound shipments with 85%+ accuracy, beating production model by 3%.","Projected $1M ARR savings by streamlining 15,000 weekly load forecasts, cutting empty miles and variance.","Cleaned and joined item/routing data in SQL; evaluated demand signals via confidence intervals and variance analysis.","Collaborated in Agile/Jira setup, participating in sprint planning, stand-ups, and one-on-ones with manager."]},{"name":"University of Florida Statistics Department","position":"Teaching Assistant","startDate":"2024-08-01","endDate":"Present","summary":"Supported 500+ students in statistics coursework.","highlights":["Reinforced regression, chi-square, and ANOVA through office hours and review sessions.","Developed exams and assignments emphasizing applied stats concepts."]},{"name":"Nettles Lab at UF Scripps Institute","position":"Research Assistant","startDate":"2025-01-01","endDate":"2025-06-01","summary":"Built self-supervised autoencoder pipeline for hormone-sensitive cancer datasets.","highlights":["Applied dimensionality reduction and clustering to study treatment effects.","Used normalization, decorrelation, and cross-validation to improve model reliability.","Optimized model performance to analyze steroid hormone receptor structures."]},{"name":"UF Health Outcomes and Biomedical Informatics","position":"Research Assistant","startDate":"2024-02-01","endDate":"2025-05-01","summary":"Researched protein–peptide binding and hypertensive disorder detection under Dr. Dominick Lemas.","highlights":["Developed CNN for protein–peptide binding prediction rivaling AlphaFold.","Built PyTorch NN on EHR data to detect hypertensive disorders with 96.5% accuracy.","Analyzed 600,000+ EHRs, creating a data dictionary for obesity and hypertension impacts."]}],"projects":[{"name":"Tampa Bay Rays – Pitching Research","startDate":"2025-08-01","endDate":"Present","summary":"Collaboration with Tampa Bay Rays on pitcher performance consistency.","highlights":["Created custom consistency metric incorporating pitch location, velocity, and outcomes.","Built ensemble model with dynamically weighted variables to identify reliable pitchers."]},{"name":"Jason's Journey","startDate":"2023-08-01","endDate":"2023-12-01","summary":"Developed roguelike game in Pygame with AI-driven gameplay.","highlights":["Implemented procedural generation, interactive items, and boss battles.","Applied probability and simulation techniques to design randomized enemy behavior."]}],"volunteer":[{"organization":"Data Science and Informatics Club","position":"Workshop Coordinator","startDate":"2023-08-01","endDate":"2024-05-01","summary":"Organized and taught interactive workshops for 400+ members.","highlights":["Coordinated UF DataFest hackathon; team won Best Presentation (2024).","Designed workshops on Python, SQL, XGBoost, and applied data science skills."]}]}
+{
+  "basics": {
+    "name": "Kyle Weiner",
+    "label": "Undergraduate Data Science Student",
+    "email": "weinerkyle7@gmail.com",
+    "phone": "+1 (954)-647-2672",
+    "url": "https://github.com/kylwein",
+    "summary": "Senior Data Science major at the University of Florida with experience in data science, machine learning, and bioinformatics research. Graduating in May 2026",
+    "location": {
+      "city": "Gainesville",
+      "region": "Florida",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "kylwein",
+        "url": "https://github.com/kylwein"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "weinerkyle",
+        "url": "https://www.linkedin.com/in/weinerkyle/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of Florida",
+      "location": "Gainesville, FL",
+      "studyType": "B.S.",
+      "area": "Data Science",
+      "startDate": "2022-08-01",
+      "endDate": "2026-05-01",
+      "score": "3.5",
+      "courses": [
+        "Regression Analysis",
+        "Intro to Probability",
+        "Linear Algebra for Data Science",
+        "Data Structures and Algorithms",
+        "Discrete Structures",
+        "Programming with Data in R",
+        "Computational Math"
+      ],
+      "certificate": "AI Fundamentals"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "SQL", "R", "C/C++"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["Scikit-Learn", "XGBoost", "Pandas", "NumPy", "Matplotlib", "PyTorch", "TensorFlow", "Keras"]
+    },
+    {
+      "name": "Data Tools",
+      "keywords": ["Tableau", "Power BI", "MATLAB", "RStudio", "Jupyter", "Google Cloud (GCP)"]
+    },
+    {
+      "name": "Development",
+      "keywords": ["Git", "Unix/Linux", "Jira", "Docker", "Agile", "Unit Testing"]
+    }
+  ],
+  "work": [
+    {
+      "name": "Walmart",
+      "position": "Data Science Intern",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "summary": "Developed multi-model regression ensemble for transportation optimization.",
+      "highlights": [
+        "Built ensemble model (XGBoost, RF, Extra Trees, LightGBM, Prophet, ARIMA) to optimize outbound shipments with 85%+ accuracy, beating production model by 3%.",
+        "Projected $1M ARR savings by streamlining 15,000 weekly load forecasts, cutting empty miles and variance.",
+        "Cleaned and joined item/routing data in SQL; evaluated demand signals via confidence intervals and variance analysis.",
+        "Collaborated in Agile/Jira setup, participating in sprint planning, stand-ups, and one-on-ones with manager."
+      ]
+    },
+    {
+      "name": "University of Florida Statistics Department",
+      "position": "Teaching Assistant",
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "summary": "Supported 500+ students in statistics coursework.",
+      "highlights": [
+        "Reinforced regression, chi-square, and ANOVA through office hours and review sessions.",
+        "Developed exams and assignments emphasizing applied stats concepts."
+      ]
+    },
+    {
+      "name": "Nettles Lab at UF Scripps Institute",
+      "position": "Research Assistant",
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-01",
+      "summary": "Built self-supervised autoencoder pipeline for hormone-sensitive cancer datasets.",
+      "highlights": [
+        "Applied dimensionality reduction and clustering to study treatment effects.",
+        "Used normalization, decorrelation, and cross-validation to improve model reliability.",
+        "Optimized model performance to analyze steroid hormone receptor structures."
+      ]
+    },
+    {
+      "name": "UF Health Outcomes and Biomedical Informatics",
+      "position": "Research Assistant",
+      "startDate": "2024-02-01",
+      "endDate": "2025-05-01",
+      "summary": "Researched protein–peptide binding and hypertensive disorder detection under Dr. Dominick Lemas.",
+      "highlights": [
+        "Developed CNN for protein–peptide binding prediction rivaling AlphaFold.",
+        "Built PyTorch NN on EHR data to detect hypertensive disorders with 96.5% accuracy.",
+        "Analyzed 600,000+ EHRs, creating a data dictionary for obesity and hypertension impacts."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Workshop Archive",
+      "url": "https://github.com/kylwein/Workshop_Archive",
+      "summary": "Developed and managed workshops in a GitHub repository, organizing materials for members' self-directed learning."
+    },
+    {
+      "name": "Tampa Bay Rays – Pitching Research",
+      "url": "",
+      "summary": "Collaboration with Tampa Bay Rays on pitcher performance consistency."
+    },
+    {
+      "name": "Jason's Journey",
+      "url": "https://github.com/kylwein/RogueLike",
+      "summary": "Developed roguelike game in Pygame with AI-driven gameplay."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Data Science and Informatics Club",
+      "position": "Workshop Coordinator",
+      "startDate": "2023-08-01",
+      "endDate": "2024-05-01",
+      "summary": "Organized and taught interactive workshops for 400+ members.",
+      "highlights": [
+        "Coordinated UF DataFest hackathon; team won Best Presentation (2024).",
+        "Designed workshops on Python, SQL, XGBoost, and applied data science skills."
+      ]
+    }
+  ]
+}
