@@ -13,7 +13,7 @@ profile:
     <p>Gainesville, FL</p>
     <p><a href="mailto:weinerkyle7@gmail.com">weinerkyle7@gmail.com</a></p>
 
-news: false # includes a list of news items
+news: false # includes a list of news item
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
