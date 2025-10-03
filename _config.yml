@@ -10,9 +10,9 @@ email: kyleweiner@ufl.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 
-keywords: AI, Machine Learning, Neural Network, Research, UF
+keywords: Data Science, AI, Machine Learning, Neural Network, Research, UF, Student, New Grad
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⚛ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://kylwein.github.io # the base hostname & protocol for your site
 baseurl:
@@ -75,16 +75,16 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: kylwein
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: 1010907 # Inspire HEP author ID
 instagram_id: # your instagram id
-kaggle_id: # your kaggle id
-keybase_username: # your keybase user name
+kaggle_id: 17433138
+keybase_username: kyleweiner
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: weinerkyle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -104,13 +104,15 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
+work_url: /assets/pdf/Kyle_Weiner_Resume.pdf
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
+
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I respond to email the fastest!
+  <a href="/assets/pdf/Kyle_Weiner_Resume.pdf" target="_blank">Download my resume</a>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -431,7 +433,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
@@ -635,8 +637,8 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
-  - projects
+  # - publications
+  # - projects
   - volunteer
   - awards
   - certificates

@@ -18,8 +18,8 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-Hey there! I’m Kyle Weiner, a third-year Data Science student at the University of Florida with a passion for AI, machine learning, and bioinformatics. Right now, I’m diving into research, using AI models to solve problems involving protein-peptide interactions. I also have fun building mechanical keyboards and love swimming whenever I can.
+Hi, I’m Kyle, a senior Data Science student at the University of Florida. I love working with AI and machine learning, especially on problems in bioinformatics where I’ve built models to study protein-peptide interactions.
 
-I’m proficient in C++, Python, R, SQL, and Tableau, with a focus on AI frameworks like PyTorch, Keras, and TensorFlow. I’m always looking to expand my knowledge and push the boundaries of what AI can do!
+I’ve also had the chance to get real-world experience: I spent a summer on Walmart’s Transportation Data Science team, building forecasting models to make their supply chain more efficient, and I’m currently working with the Tampa Bay Rays on a project analyzing pitcher consistency.
 
-
+I’m comfortable in C++, Python, R, SQL, and Tableau, and I use frameworks like PyTorch, Keras, and TensorFlow in my projects. When I’m not coding or working on research, I’m probably reading science fiction, biking or building mechanical keyboards.
