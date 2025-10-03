@@ -190,9 +190,9 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  projects:
-    output: true
-    permalink: /:collection/:title/
+    # projects:
+    #   output: true
+    #   permalink: /:collection/:title/
 
 announcements:
   enabled: true
@@ -633,8 +633,8 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
-  - projects
+  # - publications
+  # - projects
   - volunteer
   - awards
   - certificates
