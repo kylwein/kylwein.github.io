@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Kyle Weiner",
-    "label": "Data Science Student",
-    "email": "kyleweiner@ufl.edu",
+    "label": "Undergraduate Data Science Student",
+    "email": "weinerkyle7@gmail.com",
     "phone": "+1 (954)-647-2672",
     "url": "https://github.com/kylwein",
-    "summary": "Junior Data Science major at the University of Florida with experience in data science, machine learning, and bioinformatics research. Skilled in applying AI models to real-world problems in healthcare, transportation, and sports analytics.",
+    "summary": "Senior Data Science major at the University of Florida with experience in data science, machine learning, and bioinformatics research. Graduating in May 2026",
     "location": {
       "city": "Gainesville",
       "region": "Florida",
@@ -115,24 +115,19 @@
   ],
   "projects": [
     {
+      "name": "Workshop Archive",
+      "url": "https://github.com/kylwein/Workshop_Archive",
+      "summary": "Developed and managed workshops in a GitHub repository, organizing materials for members' self-directed learning."
+    },
+    {
       "name": "Tampa Bay Rays – Pitching Research",
-      "startDate": "2025-08-01",
-      "endDate": "Present",
-      "summary": "Collaboration with Tampa Bay Rays on pitcher performance consistency.",
-      "highlights": [
-        "Created custom consistency metric incorporating pitch location, velocity, and outcomes.",
-        "Built ensemble model with dynamically weighted variables to identify reliable pitchers."
-      ]
+      "url": "",
+      "summary": "Collaboration with Tampa Bay Rays on pitcher performance consistency."
     },
     {
       "name": "Jason's Journey",
-      "startDate": "2023-08-01",
-      "endDate": "2023-12-01",
-      "summary": "Developed roguelike game in Pygame with AI-driven gameplay.",
-      "highlights": [
-        "Implemented procedural generation, interactive items, and boss battles.",
-        "Applied probability and simulation techniques to design randomized enemy behavior."
-      ]
+      "url": "https://github.com/kylwein/RogueLike",
+      "summary": "Developed roguelike game in Pygame with AI-driven gameplay."
     }
   ],
   "volunteer": [
