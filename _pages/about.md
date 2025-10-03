@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Kylepfp1.png
+  image: Kylepfp1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>University of Florida</p>
